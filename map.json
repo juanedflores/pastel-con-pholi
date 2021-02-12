@@ -2142,6 +2142,15 @@
                         }]
                 }, 
                 {
+                 "id":361,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":393,
                  "properties":[
                         {
